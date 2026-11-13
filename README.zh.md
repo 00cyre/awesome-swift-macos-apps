@@ -456,6 +456,7 @@
 - [Pie](https://github.com/hieunc229/Pie) <img align="bottom" height="13" src="https://badgen.net/github/stars/hieunc229/Pie?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/hieunc229/Pie?style=flat&label=" /> - Pi 编码代理的桌面客户端，集中管理项目、会话与差异。
 - [QDuo](https://github.com/XueshiQiao/qduo) <img align="bottom" height="13" src="https://badgen.net/github/stars/XueshiQiao/qduo?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/XueshiQiao/qduo?style=flat&label=" /> - 在任意应用选中文本，光标处即可运行自定义操作——翻译、润色、搜索或询问 AI。
 - [macos-cli](https://github.com/manuaudio/macos-cli) <img align="bottom" height="13" src="https://badgen.net/github/stars/manuaudio/macos-cli?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/manuaudio/macos-cli?style=flat&label=" /> - 命令行工具，让脚本和 AI 智能体以 JSON 读写日历、通讯录、邮件、备忘录、提醒事项、窗口和屏幕。
+- [OpenComputer](https://github.com/00cyre/opencomputer) <img align="bottom" height="13" src="https://badgen.net/github/stars/00cyre/opencomputer?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/00cyre/opencomputer?style=flat&label=" /> - 通过辅助功能 API，让 AI 代理经由 MCP 或 JavaScript API 在后台读取、点击并输入允许的应用，不移动指针也不抢占焦点。
 
 ### AI 用量/状态
 
